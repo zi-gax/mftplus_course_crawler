@@ -100,25 +100,24 @@ def save_all(df, new_courses, expired_courses=[], revived_courses=[]):
 
     now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
     with open(LOG_FILE, "a", encoding="utf-8") as f:
-        f.write(f"\n<details>\n<summary>📊 Sync {now}</summary>\n\n")
-
+        f.write(f"\n<details>\n<summary>📊 Sync {now} 📈({len(new_courses)})|📉({len(expired_courses)})|♻️({len(revived_courses)})</summary>\n\n")
         if new_courses:
-            f.write(f"### 📈 New courses ({len(new_courses)})\n")
+            f.write(f"\n<details>\n<summary>### 📈 New courses ({len(new_courses)})</summary>\n\n")
             for c in new_courses:
                 f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
-            f.write("\n")
+            f.write("</details>\n")
 
         if expired_courses:
-            f.write(f"### 📉 Expired courses ({len(expired_courses)})\n")
+            f.write(f"\n<details>\n<summary>### 📉 Expired courses ({len(expired_courses)})</summary>\n\n")
             for c in expired_courses:
-                f.write(f"- {c['title']} | {c['center']}\n")
-            f.write("\n")
+                f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
+            f.write("</details>\n")
 
         if revived_courses:
-            f.write(f"### ♻️ Revived courses ({len(revived_courses)})\n")
+            f.write(f"\n<details>\n<summary>### ♻️ Revived courses ({len(revived_courses)})</summary>\n\n")
             for c in revived_courses:
                 f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
-            f.write("\n")
+            f.write("</details>\n")
 
         f.write("</details>\n")
 
