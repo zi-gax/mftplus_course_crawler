@@ -4739,3 +4739,14 @@
 <summary>📊 Sync 2026-02-19 03:16:34 📈(0)|📉(0)|♻️(0)</summary>
 
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-19 03:23:49 📈(0)|📉(1)|♻️(0)</summary>
+
+
+<details>
+<summary> 📉 Expired courses (1)</summary>
+
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+</details>
+</details>
