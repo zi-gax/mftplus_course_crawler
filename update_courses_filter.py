@@ -37,28 +37,24 @@ with open("data/courses.json", encoding="utf-8") as f:
 with open("data/months.json", encoding="utf-8") as f:
     months_data = json.load(f)
 
-# ---------------- Helper functions ----------------
+# ---------------- Helpers ----------------
 def multi_select(options, key_name="title"):
     if not options:
         return []
-
     print("\nSelect options (comma-separated numbers, or empty for none):")
     for i, opt in enumerate(options):
         print(f"{i+1}. {opt.get(key_name, 'N/A')}")
-    selected = input("Your choice: ").strip()
-
-    if not selected:
+    raw = input("Your choice: ").strip()
+    if not raw:
         return []
-
-    indices = []
-    for s in selected.split(","):
+    idxs = []
+    for s in raw.split(","):
         s = s.strip()
         if s.isdigit():
-            idx = int(s) - 1
-            if 0 <= idx < len(options):
-                indices.append(idx)
-
-    return [options[i] for i in indices]
+            i = int(s) - 1
+            if 0 <= i < len(options):
+                idxs.append(i)
+    return [options[i] for i in idxs]
 
 def get_ids(items):
     return [
@@ -95,13 +91,30 @@ def normalize(course, is_active, changed_at):
         "updated_at": now
     }
 
+# ---------------- SAFE load_existing ----------------
 def load_existing():
-    if os.path.exists(CSV_FILE):
+    if not os.path.exists(CSV_FILE):
+        return pd.DataFrame()
+
+    if os.path.getsize(CSV_FILE) == 0:
+        return pd.DataFrame()
+
+    try:
         df = pd.read_csv(CSV_FILE)
         return df if not df.empty else pd.DataFrame()
-    return pd.DataFrame()
+    except pd.errors.EmptyDataError:
+        return pd.DataFrame()
 
+# ---------------- Save ----------------
 def save_all(df, new_courses, expired_courses, revived_courses):
+    if df.empty:
+        df = pd.DataFrame(columns=[
+            "id","title","department","center","teacher",
+            "start_date","end_date","capacity","duration_hours",
+            "days","min_price","max_price","course_url",
+            "cover","is_active","changed_at","updated_at"
+        ])
+
     df.to_csv(CSV_FILE, index=False, encoding="utf-8-sig")
     df.to_json(JSON_FILE, force_ascii=False, indent=2)
 
@@ -112,7 +125,6 @@ def save_all(df, new_courses, expired_courses, revived_courses):
             f"<summary>📊 Sync {now} "
             f"📈({len(new_courses)})|📉({len(expired_courses)})|♻️({len(revived_courses)})</summary>\n\n"
         )
-
         for title, items, emoji in [
             ("New courses", new_courses, "📈"),
             ("Expired courses", expired_courses, "📉"),
@@ -123,7 +135,6 @@ def save_all(df, new_courses, expired_courses, revived_courses):
                 for c in items:
                     f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
                 f.write("</details>\n")
-
         f.write("</details>\n")
 
 # ---------------- Fetch ----------------
@@ -143,7 +154,6 @@ async def fetch_all_courses(payload):
         while True:
             payload["skip"] = skip
             data = await fetch_page(session, payload)
-
             if not data:
                 empty += 1
                 if empty >= MAX_EMPTY_PAGES:
@@ -152,7 +162,6 @@ async def fetch_all_courses(payload):
                 empty = 0
                 courses.extend(data)
                 print(f"✅ skip={skip} → {len(data)} courses")
-
             skip += PAGE_SIZE
             await asyncio.sleep(0.2)
 
@@ -160,7 +169,6 @@ async def fetch_all_courses(payload):
 
 # ---------------- Main ----------------
 async def main():
-    # ---- user filters ----
     print("Step 1 → Select Places:")
     place_ids = get_ids(multi_select(places_data))
 
@@ -207,16 +215,13 @@ async def main():
     print(f"🎯 Total fetched: {len(raw_courses)}")
 
     api_courses, api_ids = [], set()
-
     for c in raw_courses:
         cid = c["id"]["$oid"]
         api_ids.add(cid)
-
         prev = existing_map.get(cid)
         changed = not prev or prev["is_active"] == 0
-
         api_courses.append(
-            normalize(c, is_active=1, changed_at=now if changed else prev.get("changed_at"))
+            normalize(c, 1, now if changed else prev.get("changed_at"))
         )
 
     new_courses = [c for c in api_courses if c["id"] not in existing_map]
@@ -230,15 +235,12 @@ async def main():
         row["updated_at"] = now
         expired_courses.append(row)
 
-    # -------- FINAL MERGE (NO DUPLICATES) --------
+    # -------- FINAL MERGE (DICT → NO DUPLICATES) --------
     final_map = {}
-
     for cid, row in existing_map.items():
         final_map[cid] = row
-
     for c in api_courses:
         final_map[c["id"]] = c
-
     for c in expired_courses:
         final_map[c["id"]] = c
 

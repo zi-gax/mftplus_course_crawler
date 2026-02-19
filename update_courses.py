@@ -6,6 +6,7 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from urllib.parse import quote
+from pandas.errors import EmptyDataError
 
 # ---------------- Configuration ----------------
 TEHRAN_TZ = ZoneInfo("Asia/Tehran")
@@ -17,6 +18,14 @@ MAX_EMPTY_PAGES = 2
 CSV_FILE = "mftplus_courses_async.csv"
 JSON_FILE = "mftplus_courses_async.json"
 LOG_FILE = "COURSE_LOG.md"
+
+COLUMNS = [
+    "id", "title", "department", "center", "teacher",
+    "start_date", "end_date", "capacity", "duration_hours",
+    "days", "min_price", "max_price",
+    "course_url", "cover",
+    "is_active", "changed_at", "updated_at"
+]
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
@@ -42,6 +51,7 @@ async def fetch_all_courses():
     async with aiohttp.ClientSession(headers=HEADERS, connector=connector) as session:
         while True:
             data = await fetch_page(session, skip)
+
             if not data:
                 empty += 1
                 if empty >= MAX_EMPTY_PAGES:
@@ -66,6 +76,7 @@ def make_course_link(course):
 
 def normalize(course, is_active, changed_at):
     now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
+
     return {
         "id": course["id"]["$oid"],
         "title": course.get("title", ""),
@@ -88,19 +99,32 @@ def normalize(course, is_active, changed_at):
 
 # ---------------- Stage 3: Load ----------------
 def load_existing():
-    if os.path.exists(CSV_FILE):
-        return pd.read_csv(CSV_FILE)
-    return pd.DataFrame()
+    if not os.path.exists(CSV_FILE):
+        return pd.DataFrame(columns=COLUMNS)
+
+    try:
+        df = pd.read_csv(CSV_FILE)
+        if df.empty:
+            return pd.DataFrame(columns=COLUMNS)
+        return df
+    except EmptyDataError:
+        return pd.DataFrame(columns=COLUMNS)
 
 # ---------------- Stage 4: Save ----------------
 def save_all(df, new_courses, expired_courses, revived_courses):
     df.to_csv(CSV_FILE, index=False, encoding="utf-8-sig")
     df.to_json(JSON_FILE, force_ascii=False, indent=2)
-    print("💾 CSV & JSON updated")
 
     now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
+
     with open(LOG_FILE, "a", encoding="utf-8") as f:
-        f.write(f"\n<details>\n<summary>📊 Sync {now} 📈({len(new_courses)})|📉({len(expired_courses)})|♻️({len(revived_courses)})</summary>\n\n")
+        f.write(
+            f"\n<details>\n"
+            f"<summary>📊 Sync {now} "
+            f"📈({len(new_courses)}) | "
+            f"📉({len(expired_courses)}) | "
+            f"♻️({len(revived_courses)})</summary>\n\n"
+        )
 
         for title, items, emoji in [
             ("New courses", new_courses, "📈"),
@@ -108,7 +132,7 @@ def save_all(df, new_courses, expired_courses, revived_courses):
             ("Revived courses", revived_courses, "♻️")
         ]:
             if items:
-                f.write(f"\n<details>\n<summary>{emoji} {title} ({len(items)})</summary>\n\n")
+                f.write(f"<details>\n<summary>{emoji} {title} ({len(items)})</summary>\n\n")
                 for c in items:
                     f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
                 f.write("</details>\n")
@@ -120,20 +144,15 @@ async def main():
     existing_df = load_existing()
     now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
 
-    existing_map = {
-        str(row["id"]): row.to_dict()
-        for _, row in existing_df.iterrows()
-    }
+    existing_map = {row["id"]: row.to_dict() for _, row in existing_df.iterrows()}
 
     old_active_ids = {
-        str(row["id"])
-        for _, row in existing_df.iterrows()
+        row["id"] for _, row in existing_df.iterrows()
         if row.get("is_active") == 1
     }
 
     old_inactive_ids = {
-        str(row["id"])
-        for _, row in existing_df.iterrows()
+        row["id"] for _, row in existing_df.iterrows()
         if row.get("is_active") == 0
     }
 
@@ -148,13 +167,13 @@ async def main():
         api_ids.add(cid)
 
         prev = existing_map.get(cid)
-        status_changed = not prev or prev["is_active"] == 0
+        status_changed = not prev or prev.get("is_active") == 0
 
         api_courses.append(
             normalize(
                 c,
                 is_active=1,
-                changed_at=now if status_changed else prev.get("changed_at")
+                changed_at=now if status_changed else prev.get("changed_at", now)
             )
         )
 
@@ -169,19 +188,11 @@ async def main():
         row["updated_at"] = now
         expired_courses.append(row)
 
-    # ---------------- FINAL MERGE (NO DUPLICATES) ----------------
-    final_map = {}
-
-    for cid, row in existing_map.items():
-        final_map[cid] = row
-
-    for c in api_courses:
+    final_map = {row["id"]: row for row in existing_map.values()}
+    for c in api_courses + expired_courses:
         final_map[c["id"]] = c
 
-    for c in expired_courses:
-        final_map[c["id"]] = c
-
-    final_df = pd.DataFrame(final_map.values())
+    final_df = pd.DataFrame(final_map.values(), columns=COLUMNS)
 
     save_all(final_df, new_courses, expired_courses, revived_courses)
 
