@@ -100,3 +100,66 @@
 - [فنگ شویی در معماری داخلی](https://mftplus.com/lesson/3782/فنگ-شویی-در-معماری-داخلی?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-19 11:25:28 📈(5)|📉(21)|♻️(17)</summary>
+
+
+<details>
+<summary> 📈 New courses (5)</summary>
+
+- [Microsoft Office Word 2021](https://mftplus.com/lesson/5714/Microsoft-Office-Word-2021?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [تلفیقی Word+Excel 2021](https://mftplus.com/lesson/5976/تلفیقی-Word+Excel-2021?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [طراحی معماری و دکوراسیون داخلی پیشرفته](https://mftplus.com/lesson/5998/طراحی-معماری-و-دکوراسیون-داخلی-پیشرفته?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [برنامه نویسی پایتون مقدماتی 2](https://mftplus.com/lesson/3971/برنامه-نویسی-پایتون-مقدماتی-2?refp=%D8%A2%DB%8C%D8%AA%20%D8%A7%D9%84%D9%84%D9%87%20%DA%A9%D8%A7%D8%B4%D8%A7%D9%86%DB%8C%20%28%D8%BA%D8%B1%D8%A8%29) | آیت الله کاشانی (غرب)
+- [اتوکد دوبعدی معماری](https://mftplus.com/lesson/391412131/اتوکد-دوبعدی-معماری?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+</details>
+
+<details>
+<summary> 📉 Expired courses (21)</summary>
+
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+</details>
+
+<details>
+<summary> ♻️ Revived courses (17)</summary>
+
+- [کمک های اولیه و فوریت های پزشکی](https://mftplus.com/lesson/341612128/کمک-های-اولیه-و-فوریت-های-پزشکی?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [اتوکد الکتریکال](https://mftplus.com/lesson/181222132/اتوکد-الکتریکال?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [هوش مصنوعی در خدمت حسابداری](https://mftplus.com/lesson/6410/هوش-مصنوعی-در-خدمت-حسابداری?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [نرم افزار EPLAN](https://mftplus.com/lesson/181222127/نرم-افزار-EPLAN?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [مقدمه ای بر الگوریتم و برنامه نویسی](https://mftplus.com/lesson/132017130/مقدمه-ای-بر-الگوریتم-و-برنامه-نویسی?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [افترافکت (After Effects)](https://mftplus.com/lesson/431213154/افترافکت-(After-Effects)?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [CEH v.12 (Certified Ethical Hacker)](https://mftplus.com/lesson/5173/CEH-v.12-(Certified-Ethical-Hacker)?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [طراحی مقدماتی](https://mftplus.com/lesson/191814123/طراحی-مقدماتی?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [زبان انگلیسی A1.6](https://mftplus.com/lesson/231215280/زبان-انگلیسی-A1.6?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [طراحی دستی جواهرات](https://mftplus.com/lesson/154412123/طراحی-دستی-جواهرات?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [مقدمه ای بر الگوریتم و برنامه نویسی](https://mftplus.com/lesson/132017130/مقدمه-ای-بر-الگوریتم-و-برنامه-نویسی?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [هوشمند سازی ساختمان (پروتکل کی ان ایکس)](https://mftplus.com/lesson/4869/هوشمند-سازی-ساختمان-(پروتکل-کی-ان-ایکس)?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [تکنسین داروخانه (نسخه خوانی)](https://mftplus.com/lesson/341615130/تکنسین-داروخانه-(نسخه-خوانی)?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [نرم افزار Revit معماری](https://mftplus.com/lesson/391412129/نرم-افزار-Revit-معماری?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+- [کاربرد نرم افزار ایلاستریتور در طراحی لباس](https://mftplus.com/lesson/6310/کاربرد-نرم-افزار-ایلاستریتور-در-طراحی-لباس?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [تبدیل نقشه های فاز یک به فاز دو](https://mftplus.com/lesson/391412142/تبدیل-نقشه-های-فاز-یک-به-فاز-دو?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [نورپردازی در دکوراسیون داخلی](https://mftplus.com/lesson/391212173/نورپردازی-در-دکوراسیون-داخلی?refp=%D8%A8%D9%84%D9%88%D8%A7%D8%B1%20%DA%A9%D8%A7%D9%88%D9%87%28%D9%82%DB%8C%D8%B7%D8%B1%DB%8C%D9%87%29) | بلوار کاوه(قیطریه)
+</details>
+</details>
