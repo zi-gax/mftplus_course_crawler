@@ -338,3 +338,210 @@
 - [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-19 14:25:35 📈(4)|📉(180)|♻️(3)</summary>
+
+
+<details>
+<summary> 📈 New courses (4)</summary>
+
+- [نصب، راه اندازی، عیب یابی و تعمیر کولر گازی](https://mftplus.com/lesson/4909/نصب،-راه-اندازی،-عیب-یابی-و-تعمیر-کولر-گازی?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [Python Programming Advanced](https://mftplus.com/lesson/5681/Python-Programming-Advanced?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+- [فتوشاپ نسخه مقدماتی تا پیشرفته](https://mftplus.com/lesson/431314130/فتوشاپ-نسخه-مقدماتی-تا-پیشرفته?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [فتوشاپ و ایلاستریتور](https://mftplus.com/lesson/431312124/فتوشاپ-و-ایلاستریتور?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+</details>
+
+<details>
+<summary> 📉 Expired courses (180)</summary>
+
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [(HTML & CSS (Web Design I](https://mftplus.com/lesson/6456/(HTML-&-CSS-(Web-Design-I?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [پریمیر](https://mftplus.com/lesson/431213156/پریمیر?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [پروداکت انیمیشن (انیمیشن معرفی محصول)](https://mftplus.com/lesson/6418/پروداکت-انیمیشن-(انیمیشن-معرفی-محصول)?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [جلوه های ویژه با هودینی](https://mftplus.com/lesson/6439/جلوه-های-ویژه-با-هودینی?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [(HTML & CSS (Web Design I](https://mftplus.com/lesson/6456/(HTML-&-CSS-(Web-Design-I?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [فتوشاپ نسخه مقدماتی تا پیشرفته](https://mftplus.com/lesson/431314130/فتوشاپ-نسخه-مقدماتی-تا-پیشرفته?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [فتوشاپ و ایلاستریتور](https://mftplus.com/lesson/431312124/فتوشاپ-و-ایلاستریتور?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [(HTML & CSS (Web Design I](https://mftplus.com/lesson/6456/(HTML-&-CSS-(Web-Design-I?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [پریمیر](https://mftplus.com/lesson/431213156/پریمیر?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [پروداکت انیمیشن (انیمیشن معرفی محصول)](https://mftplus.com/lesson/6418/پروداکت-انیمیشن-(انیمیشن-معرفی-محصول)?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [جلوه های ویژه با هودینی](https://mftplus.com/lesson/6439/جلوه-های-ویژه-با-هودینی?refp=%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86%DB%8C%D9%87) | زعفرانیه
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [(HTML & CSS (Web Design I](https://mftplus.com/lesson/6456/(HTML-&-CSS-(Web-Design-I?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [تصویرسازی 1](https://mftplus.com/lesson/6094/تصویرسازی-1?refp=%D8%A7%DA%A9%D8%A8%D8%A7%D8%AA%D8%A7%D9%86) | اکباتان
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [ادمین تخصصی اینستاگرام](https://mftplus.com/lesson/5741/ادمین-تخصصی-اینستاگرام?refp=%D9%BE%D8%B1%D9%86%D8%AF) | پرند
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+- [JavaScript (Web Design III)](https://mftplus.com/lesson/6458/JavaScript-(Web-Design-III)?refp=%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8) | انقلاب
+</details>
+
+<details>
+<summary> ♻️ Revived courses (3)</summary>
+
+- [Microsoft Office Excel 2021](https://mftplus.com/lesson/5578/Microsoft-Office-Excel-2021?refp=%D8%B3%DB%8C%D8%AF%D8%AE%D9%86%D8%AF%D8%A7%D9%86) | سیدخندان
+- [دوره جامع محاسبات ساختمان : ETABS/SAFE سطح دو (ویژه سازه های بتنی)](https://mftplus.com/lesson/153812130/دوره-جامع-محاسبات-ساختمان-:-ETABS/SAFE-سطح-دو-(ویژه-سازه-های-بتنی)?refp=%D9%88%D9%86%DA%A9) | ونک
+- [متره و برآورد معماری داخلی](https://mftplus.com/lesson/391212170/متره-و-برآورد-معماری-داخلی?refp=%D9%85%DB%8C%D8%B1%D8%AF%D8%A7%D9%85%D8%A7%D8%AF) | میرداماد
+</details>
+</details>
