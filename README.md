@@ -1,6 +1,6 @@
-# MFTPlus Course Crawler
+# MFTPlus Course scraper
 
-High-performance async web crawler for aggregating and synchronizing course data from the [MFTPlus](https://mftplus.com) educational platform.
+High-performance async web scraper for aggregating and synchronizing course data from the [MFTPlus](https://mftplus.com) educational platform.
 
 ## Overview
 
@@ -20,7 +20,7 @@ Built with asynchronous concurrency patterns for optimal performance on large da
 
 | Module | Purpose |
 |--------|---------|
-| `update_courses.py` | Main async crawler for course data extraction with pagination |
+| `update_courses.py` | Main async scraper for course data extraction with pagination |
 | `update_courses_filter.py` | Interactive filtering with change tracking and data normalization |
 | `update_params.py` | API parameter synchronization (departments, locations, categories) |
 
@@ -80,7 +80,7 @@ CSV + JSON exports + audit logs
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd mftplus_course_crawler
+cd mftplus_course_scraper
 ```
 
 ### 2. Create Virtual Environment
