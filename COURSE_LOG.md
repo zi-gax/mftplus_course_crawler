@@ -3020,3 +3020,8 @@
 - [طراحی مکانیکی به کمک CATIA I](https://mftplus.com/lesson/153718143/طراحی-مکانیکی-به-کمک-CATIA-I?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-20 18:16:42 📈(0) | 📉(0) | ♻️(0)</summary>
+
+</details>
