@@ -1,4 +1,4 @@
-# MFTPlus Course scraper
+# MFTPlus Course Scraper
 
 High-performance async web scraper for aggregating and synchronizing course data from the [MFTPlus](https://mftplus.com) educational platform.
 
