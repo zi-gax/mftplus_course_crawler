@@ -3000,3 +3000,13 @@
 <summary>📊 Sync 2026-02-20 14:16:16 📈(0) | 📉(0) | ♻️(0)</summary>
 
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-20 15:10:52 📈(0) | 📉(1) | ♻️(0)</summary>
+
+<details>
+<summary>📉 Expired courses (1)</summary>
+
+- [خبرنگاری حرفه ای در دنیای دیجیتال](https://mftplus.com/lesson/6088/خبرنگاری-حرفه-ای-در-دنیای-دیجیتال?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
+</details>
+</details>
