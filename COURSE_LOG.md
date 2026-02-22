@@ -4017,3 +4017,13 @@
 - [چرخه کامل حسابداری شرکت های بازرگانی](https://mftplus.com/lesson/3868/چرخه-کامل-حسابداری-شرکت-های-بازرگانی?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-22 20:11:13 📈(1) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (1)</summary>
+
+- [قانون کار](https://mftplus.com/lesson/5783/قانون-کار?refp=%D9%88%D9%86%DA%A9) | ونک
+</details>
+</details>
