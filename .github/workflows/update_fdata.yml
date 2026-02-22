@@ -3,7 +3,7 @@ name: MFTPlus Full Courses Scraper
 on:
   # Run once per day (03:00 UTC)
   schedule:
-    - cron: '0 3 * * *'
+     - cron: '0 3 */5 * *'
 
   # Manual trigger
   workflow_dispatch:
