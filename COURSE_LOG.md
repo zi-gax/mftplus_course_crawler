@@ -4017,3 +4017,33 @@
 - [چرخه کامل حسابداری شرکت های بازرگانی](https://mftplus.com/lesson/3868/چرخه-کامل-حسابداری-شرکت-های-بازرگانی?refp=%D9%BE%D8%A7%D8%B1%DA%A9%20%D8%B3%D8%A7%D8%B9%DB%8C) | پارک ساعی
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-22 20:11:13 📈(1) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (1)</summary>
+
+- [قانون کار](https://mftplus.com/lesson/5783/قانون-کار?refp=%D9%88%D9%86%DA%A9) | ونک
+</details>
+</details>
+
+<details>
+<summary>📊 Sync 2026-02-22 21:04:17 📈(1) | 📉(0) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (1)</summary>
+
+- [اصول سرپرستی](https://mftplus.com/lesson/4385/اصول-سرپرستی?refp=%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1) | اسلامشهر
+</details>
+</details>
+
+<details>
+<summary>📊 Sync 2026-02-22 22:15:52 📈(0) | 📉(0) | ♻️(0)</summary>
+
+</details>
+
+<details>
+<summary>📊 Sync 2026-02-22 23:03:27 📈(0) | 📉(0) | ♻️(0)</summary>
+
+</details>
