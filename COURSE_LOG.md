@@ -3990,3 +3990,18 @@
 - [هوش مصنوعی در زندگی روزمره](https://mftplus.com/lesson/6495/هوش-مصنوعی-در-زندگی-روزمره?refp=%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%20%D8%A2%D8%A8%D8%A7%D8%AF%20%28%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%29) | سعادت آباد (مرکزی)
 </details>
 </details>
+
+<details>
+<summary>📊 Sync 2026-02-22 18:04:57 📈(1) | 📉(1) | ♻️(0)</summary>
+
+<details>
+<summary>📈 New courses (1)</summary>
+
+- [زبان فرانسه A2.4](https://mftplus.com/lesson/231312184/زبان-فرانسه-A2.4?refp=%D9%86%DB%8C%D8%A7%D9%88%D8%B1%D8%A7%D9%86) | نیاوران
+</details>
+<details>
+<summary>📉 Expired courses (1)</summary>
+
+- [3Ds Max Beginners to Advanced & V-Ray](https://mftplus.com/lesson/4542/3Ds-Max-Beginners-to-Advanced-&-V-Ray?refp=%D8%B4%D9%87%D8%B1%D9%82%D8%AF%D8%B3) | شهرقدس
+</details>
+</details>
