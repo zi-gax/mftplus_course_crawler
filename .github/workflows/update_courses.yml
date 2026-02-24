@@ -42,7 +42,7 @@ jobs:
 
           git add mftplus_courses.csv
           git add mftplus_courses.json
-          git add courses_norm_intent.csv
+          git add norm-intent-data/courses_norm_intent.csv
           git add COURSE_LOG.md
 
           # فقط اگر تغییر وجود داشت commit و push انجام شود
