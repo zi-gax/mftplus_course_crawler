@@ -47,7 +47,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           # Add output files (اسم فایل JSON خودت)
-          git add courses-data/*.json || true
+          git add courses-data/
 
           # Commit only if there are changes
           if ! git diff --cached --quiet; then
