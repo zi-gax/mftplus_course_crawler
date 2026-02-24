@@ -13,9 +13,9 @@ TIMEZONE = ZoneInfo("Asia/Tehran")
 
 PATH_PLACES = "places.json"
 PATH_DEPARTMENTS = "departments.json"
-PATH_COURSES = "data/courses.json"
-PATH_GROUPS = "data/groups.json"
-PATH_MONTHS = "data/months.json"
+PATH_COURSES = "courses.json"
+PATH_GROUPS = "groups.json"
+PATH_MONTHS = "months.json"
     
 # ================== Helpers ==================
 def fetch_json(need: str):
