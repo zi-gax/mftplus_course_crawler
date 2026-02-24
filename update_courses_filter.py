@@ -71,8 +71,11 @@ def make_course_link(course):
 
 def normalize(course, is_active, changed_at):
     now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d %H:%M:%S")
+
     return {
         "id": course["id"]["$oid"],
+        "class_id": course.get("number", ""),
+        "lesson_id": course.get("lessonId", ""),
         "title": course.get("title", ""),
         "department": course.get("dep", ""),
         "center": course.get("center", ""),
@@ -86,6 +89,7 @@ def normalize(course, is_active, changed_at):
         "max_price": course.get("maxCost", ""),
         "course_url": make_course_link(course),
         "cover": course.get("cover", ""),
+        "certificate": course.get("cer", ""),
         "is_active": is_active,
         "changed_at": changed_at,
         "updated_at": now
@@ -109,10 +113,12 @@ def load_existing():
 def save_all(df, new_courses, expired_courses, revived_courses):
     if df.empty:
         df = pd.DataFrame(columns=[
-            "id","title","department","center","teacher",
-            "start_date","end_date","capacity","duration_hours",
-            "days","min_price","max_price","course_url",
-            "cover","is_active","changed_at","updated_at"
+            "id", "class_id", "lesson_id",
+            "title", "department", "center", "teacher",
+            "start_date", "end_date", "capacity", "duration_hours",
+            "days", "min_price", "max_price",
+            "course_url", "cover", "certificate",
+            "is_active", "changed_at", "updated_at"
         ])
 
     df.to_csv(CSV_FILE, index=False, encoding="utf-8-sig")

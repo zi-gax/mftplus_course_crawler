@@ -20,10 +20,11 @@ JSON_FILE = "mftplus_courses_async.json"
 LOG_FILE = "COURSE_LOG.md"
 
 COLUMNS = [
-    "id", "title", "department", "center", "teacher",
+    "id", "class_id", "lesson_id",
+    "title", "department", "center", "teacher",
     "start_date", "end_date", "capacity", "duration_hours",
     "days", "min_price", "max_price",
-    "course_url", "cover",
+    "course_url", "cover", "certificate",
     "is_active", "changed_at", "updated_at"
 ]
 
@@ -79,6 +80,8 @@ def normalize(course, is_active, changed_at):
 
     return {
         "id": course["id"]["$oid"],
+        "class_id": course.get("number", ""),
+        "lesson_id": course.get("lessonId", ""),
         "title": course.get("title", ""),
         "department": course.get("dep", ""),
         "center": course.get("center", ""),
@@ -92,6 +95,7 @@ def normalize(course, is_active, changed_at):
         "max_price": course.get("maxCost", ""),
         "course_url": make_course_link(course),
         "cover": course.get("cover", ""),
+        "certificate": course.get("cer", ""),
         "is_active": is_active,
         "changed_at": changed_at,
         "updated_at": now
