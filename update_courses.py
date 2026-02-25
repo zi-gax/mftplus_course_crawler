@@ -4,15 +4,12 @@ import pandas as pd
 import json
 import os
 import argparse
-from datetime import datetime
-from zoneinfo import ZoneInfo
 from urllib.parse import quote
 import jdatetime
 import re
 from pandas.errors import EmptyDataError
 
 # ---------------- CONFIG ----------------
-TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 API_URL = "https://mftplus.com/ajax/default/calendar?need=search"
 
 PAGE_SIZE = 9
@@ -26,7 +23,7 @@ LOG_FILE = "COURSE_LOG.md"
 COLUMNS = [
     "id", "class_id", "lesson_id",
     "title", "department", "center", "teacher",
-    "start_date", "end_date", "capacity", "duration_hours",
+    "start_date", "end_date", "season", "capacity", "duration_hours",
     "days", "min_price", "max_price",
     "course_url", "cover", "certificate",
     "is_active", "changed_at", "updated_at"
@@ -65,6 +62,10 @@ def normalize_bool(val):
     except:
         return False
 
+def now_jalali():
+    j = jdatetime.datetime.now()
+    return f"{j.year:04d}-{j.month:02d}-{j.day:02d}"
+
 def normalize_jalali_date(text):
     if not text or pd.isna(text):
         return None
@@ -77,17 +78,31 @@ def normalize_jalali_date(text):
     if not month:
         return None
     jd = jdatetime.date(int(year), month, int(day))
-    return jd.togregorian().isoformat() 
+    return f"{jd.year:04d}-{jd.month:02d}-{jd.day:02d}"
 
-def normalize_updated_at(val):
-    if not val or pd.isna(val):
+def get_season_from_jalali(date_str):
+    if not date_str:
         return None
-    return str(val).split(" ")[0]  
+    try:
+        month = int(date_str.split("-")[1])
+    except:
+        return None
+    if 1 <= month <= 3:
+        return "بهار"
+    if 4 <= month <= 6:
+        return "تابستان"
+    if 7 <= month <= 9:
+        return "پاییز"
+    if 10 <= month <= 12:
+        return "زمستان"
+    return None
+
 def make_course_link(course):
     return f"https://mftplus.com/lesson/{course.get('lessonId','')}/{course.get('lessonUrl','')}?refp={quote(course.get('center',''))}"
 
 def normalize_course(course, is_active, changed_at):
-    now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d")
+    now = now_jalali()
+    start_date = normalize_jalali_date(course.get("start"))
     return {
         "id": course["id"]["$oid"],
         "class_id": course.get("number",""),
@@ -96,8 +111,9 @@ def normalize_course(course, is_active, changed_at):
         "department": course.get("dep",""),
         "center": course.get("center",""),
         "teacher": None if course.get("author") in ["مشخص نشده","",None] else course.get("author"),
-        "start_date": normalize_jalali_date(course.get("start")),
+        "start_date": start_date,
         "end_date": normalize_jalali_date(course.get("end")),
+        "season": get_season_from_jalali(start_date),
         "capacity": int(fa_to_en_func(course.get("capacity"))) if course.get("capacity") not in [None,""] else None,
         "duration_hours": int(fa_to_en_func(course.get("time"))) if course.get("time") not in [None,""] else None,
         "days": " | ".join(course.get("days",[])),
@@ -123,23 +139,22 @@ def load_existing():
 
 # ---------------- SAVE ----------------
 def save_all(df, new, expired, revived):
-
     for col in COLUMNS:
         if col not in df.columns:
             df[col] = None
     df['is_active'] = df['is_active'].apply(lambda x: normalize_bool(x))
-
     df.to_csv(CSV_FILE, index=False, encoding="utf-8-sig")
     df.to_json(JSON_FILE, force_ascii=False, indent=2)
-    now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d")
+    now = now_jalali()
     with open(LOG_FILE,"a",encoding="utf-8") as f:
         f.write(f"\n<details><summary>📊 Sync {now} 📈({len(new)}) 📉({len(expired)}) ♻️({len(revived)})</summary>\n\n")
         for title, items in [("📈 New", new),("📉 Expired", expired),("♻️ Revived", revived)]:
             if items:
                 f.write(f"<details><summary>{title} ({len(items)})</summary>\n\n")
-                for c in items: f.write(f"- [{c['title']}]({c['course_url']}) | {c['center']}\n")
+                for c in items: f.write(f"- [{c['title']}]({c['course_url']}) | {c['class_id']} | {c['id']} \n")
                 f.write("</details>\n")
         f.write("</details>\n")
+
 
 # ---------------- FETCH ----------------
 async def fetch_page(session, payload):
@@ -167,7 +182,7 @@ async def fetch_all(payload):
 # ---------------- SYNC ----------------
 async def sync(payload):
     existing_df = load_existing()
-    now = datetime.now(TEHRAN_TZ).strftime("%Y-%m-%d")
+    now = now_jalali()
     existing_map = {str(r["id"]): r.to_dict() for _, r in existing_df.iterrows()}
     old_active = {k for k,v in existing_map.items() if normalize_bool(v["is_active"])}
     old_inactive = {k for k,v in existing_map.items() if not normalize_bool(v["is_active"])}

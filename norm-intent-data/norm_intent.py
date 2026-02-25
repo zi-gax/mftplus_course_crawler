@@ -34,9 +34,10 @@ def normalize_updated_at(val):
 df = pd.read_csv(INPUT_CSV)
 
 COLUMNS_TO_KEEP = [
-    "id","lesson_id","title", "teacher", "start_date", "end_date",
+    "id","lesson_id","class_id","title","department",
+    "teacher", "start_date", "end_date",
     "capacity", "duration_hours", "days",
-    "min_price", "max_price","class_id","is_active",
+    "min_price", "max_price","is_active",
     "updated_at" 
 ]
 
