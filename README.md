@@ -175,8 +175,8 @@ FA_TO_EN = str.maketrans(...)        # Persian↔English numeral conversion
 | `capacity` | integer \| null | Max enrollment | `3` |
 | `duration_hours` | integer \| null | Total instructional hours | `141` |
 | `days` | string | Schedule (pipe-delimited, HMS notation) | `شنبه ۱۸:۰۰-۲۱:۰۰ \| دوشنبه ۱۸:۰۰-۲۱:۰۰` |
-| `min_price` | integer \| null | Minimum cost (Toman, Persian→English converted) | `219000000` |
-| `max_price` | integer \| null | Maximum cost (Toman) | `219000000` |
+| `min_price` | integer \| null | Minimum cost (Rial, Persian→English converted) | `219000000` |
+| `max_price` | integer \| null | Maximum cost (Rial) | `219000000` |
 | `course_url` | string (URI) | Direct MFTPlus course link with referrer | `https://mftplus.com/lesson/5998/...` |
 | `cover` | string (URL) | Thumbnail image endpoint | `https://mftcdn.ir/files/...` |
 | `certificate` | string | Credential type (e.g., "مدرک مجتمع فنی تهران") | `مدرک مجتمع فنی تهران` |
